@@ -125,7 +125,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Monty Hall Simulation Project.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="MontyHall.cpp" />
   </ItemGroup>
   <ItemGroup>
