@@ -7,6 +7,7 @@ using namespace std;
 
 int main()
 {
+    //Argument 1 numOfDoors, argument 2 Keep/Swap, argument 3 numDoorRevealed
     MontyHall game(6, false, 1);
     MontyHall gameTwo(6, true, 1);
 
